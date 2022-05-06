@@ -1,0 +1,34 @@
+PASSOS Backend
+
+1. mkdir server
+2. npm init -y
+3. npm i typescript @types/node ts-node-dev -D
+4. npx tsc --init
+5. npx prisma init
+    - para criar a tabela
+        -> npx prisma migrate dev (desenvolvimento)
+        -> npx prisma migrate deploy (produção)
+    - ver as tabelas
+        -> npx prisma studio
+6. npx jest --init
+    - conjunto de perguntas
+        respostas: Yes, yes, node, yes, v8, yes
+
+
+#SOLID
+1. Single Responsability Principle
+2. Open/Closed Principle
+3. Liskov Substitution Principle
+4. Interface Segregation Principle
+5. Dependecy Inversion Principle
+
+---------
+
+1. Cada classe tem uma responsabilidade;
+2. As classes de aplicação devem ser abertas para extensão e fechadas para modificação;
+3. Nós devamos poder substituir uma classe pai por uma herança dela e tudo continuar funcionando;
+4. ... (Segregar interfaces)
+5. ...
+
+
+#NewSkills
