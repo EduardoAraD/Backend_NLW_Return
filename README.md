@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-**Feedback Widget** é um projeto de feedback de um site qualquer. Se resume em um modal que o usuário informa feedbacks do site.
+**Feedback Widget** é um projeto de feedback que pode ser utilizado em qualquer site. Se resume em um modal que o usuário informa feedbacks.
 A aplicação é dividida em 3 repositórios e este é o backend.
 
 Esse projeto é foi realizado no evento **NLW_RETURN** que está na sua 5° edição. Evento realizado pela [Rocketseat](https://www.rocketseat.com.br "Site da Rockeseat").
