@@ -1,4 +1,4 @@
-# Backend_NLW_Return
+# Backend Feedback Widget
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/EduardoAraD/Backend_NLW_Return/blob/main/LICENSE)
 
 # Sobre o projeto
